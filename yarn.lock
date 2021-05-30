@@ -2382,6 +2382,17 @@
     "@ethersproject/properties" "^5.0.7"
     "@ethersproject/strings" "^5.0.8"
 
+"@froyoswap-libs/uikit@^0.10.6":
+  version "0.10.6"
+  resolved "https://registry.yarnpkg.com/@froyoswap-libs/uikit/-/uikit-0.10.6.tgz#996ac39979b79d9e5d49369276584020da33cdd8"
+  integrity sha512-BdAdmn1L9XQ/a1+h6bNCGg0fFFyTi6IllcTuHuHBA/IE8BaL8f9NscWseo+TzikQpffDajtOvfe3Vl6blP21IQ==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@graphql-tools/batch-delegate@^6.2.4", "@graphql-tools/batch-delegate@^6.2.6":
   version "6.2.6"
   resolved "https://registry.yarnpkg.com/@graphql-tools/batch-delegate/-/batch-delegate-6.2.6.tgz#fbea98dc825f87ef29ea5f3f371912c2a2aa2f2c"

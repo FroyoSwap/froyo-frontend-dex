@@ -1,4 +1,4 @@
-import { MenuEntry } from '@pantherswap-libs/uikit'
+import { MenuEntry } from '@froyoswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
@@ -126,11 +126,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'LiveCoinWatch',
-        href: 'https://www.livecoinwatch.com/price/PantherSwap-PANTHER',
+        href: 'https://www.livecoinwatch.com/price/FroyoSwap-PANTHER',
       },
       {
         label: 'Vfat',
-        href: 'https://vfat.tools/bsc/panther',
+        href: 'https://vfat.tools/bsc/froyo',
       },
     ],
   },

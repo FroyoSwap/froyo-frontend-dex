@@ -42,12 +42,12 @@
       "logoURI": "/images/coins/bake.png"
     },
     {
-      "name": "PantherSwap Token",
+      "name": "FroyoSwap Token",
       "symbol": "PANTHER",
       "address": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/panther.png"
+      "logoURI": "/images/coins/froyo.png"
     },
     {
       "name": "BUSD Token",

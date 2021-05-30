@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Button, HelpIcon, Link } from '@pantherswap-libs/uikit'
+import { Text, Button, HelpIcon, Link } from '@froyoswap-libs/uikit'
 
 const Wrapper = styled.div`
   position: fixed;
@@ -22,7 +22,7 @@ const VersionBar = () => {
   return (
     <Wrapper>
       <Text bold mr="16px">
-        You are using PantherSwap AMM exchange.
+        You are using FroyoSwap AMM exchange.
       </Text>
       <Button
         variant="subtle"
