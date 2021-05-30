@@ -2382,6 +2382,28 @@
     "@ethersproject/properties" "^5.0.7"
     "@ethersproject/strings" "^5.0.8"
 
+"@froyoswap-libs/froyo-swap-core@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@froyoswap-libs/froyo-swap-core/-/froyo-swap-core-0.1.0.tgz#a7f1ec01539f3a42b399b951d6fc376d19d324f7"
+  integrity sha512-OTnJFqFR0s3RHYDJFx5/V+pU5wmsguafILPztDVS3i8wR9d2At/EoIAL0uotWsXjFY541iDPbmJRJ11Mb5d88g==
+  dependencies:
+    truffle "^5.1.41"
+    truffle-flattener "^1.4.4"
+    truffle-hdwallet-provider "^1.0.17"
+
+"@froyoswap-libs/sdk@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@froyoswap-libs/sdk/-/sdk-1.0.0.tgz#b4c74a309ee8dfdbecdcd6f90e8a87994613fe18"
+  integrity sha512-JZPlpy24+Ncj4heA/K04JIXfnlx78O7Jcb8fk3LXePB83lnIqOb7tI+JvriTLNBYSuLQgBGJIHZtdK9AqzY4CQ==
+  dependencies:
+    "@froyoswap-libs/froyo-swap-core" "^0.1.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@froyoswap-libs/uikit@^0.10.6":
   version "0.10.6"
   resolved "https://registry.yarnpkg.com/@froyoswap-libs/uikit/-/uikit-0.10.6.tgz#996ac39979b79d9e5d49369276584020da33cdd8"
