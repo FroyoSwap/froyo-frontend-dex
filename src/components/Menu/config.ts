@@ -114,15 +114,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'DappRadar',
-        href: 'https://dappradar.com/binance-smart-chain/defi/pantherswap',
+        href: 'https://dappradar.com/binance-smart-chain/defi/froyoswap',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/pantherswap',
+        href: 'https://www.coingecko.com/en/coins/froyoswap',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/pantherswap/',
+        href: 'https://coinmarketcap.com/currencies/froyoswap/',
       },
       {
         label: 'LiveCoinWatch',
@@ -164,19 +164,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://pantherswap.info',
+        href: 'https://froyoswap.info',
       },
       {
         label: 'Tokens',
-        href: 'https://pantherswap.info/tokens',
+        href: 'https://froyoswap.info/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://pantherswap.info/pairs',
+        href: 'https://froyoswap.info/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://pantherswap.info/accounts',
+        href: 'https://froyoswap.info/accounts',
       },
     ],
   },
@@ -195,7 +195,7 @@ const config: MenuEntry[] = [
       // },
       {
         label: 'Github',
-        href: 'https://github.com/pantherswap',
+        href: 'https://github.com/froyoswap',
       },
       {
         label: 'Docs',
@@ -207,7 +207,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://pantherswap.medium.com',
+        href: 'https://froyoswap.medium.com',
       },
       {
         label: 'Voting',
