@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pantherswap.com/',
+    href: 'https://froyoswap.org/',
   },
   {
     label: 'Trade',
@@ -21,44 +21,44 @@ const config: MenuEntry[] = [
       },
       {
         label: 'LP Migration',
-        href: 'https://docs.pantherswap.com/amm-launch',
+        href: 'https://docs.froyoswap.org/amm-launch',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pantherswap.com/farms',
+    href: 'https://froyoswap.org/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pantherswap.com/pools',
+    href: 'https://froyoswap.org/pools',
   },
   {
     label: 'Jungles',
     icon: 'JungleIcon',
-    href: 'https://pantherswap.com/jungles',
+    href: 'https://froyoswap.org/jungles',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pantherswap.com/lottery',
+    href: 'https://froyoswap.org/lottery',
   },
   {
     label: 'IPO',
     icon: 'IfoIcon',
-    href: 'https://pantherswap.com/ipo',
+    href: 'https://froyoswap.org/ipo',
   },
   {
     label: 'Referrals',
     icon: 'ReferralIcon',
-    href: 'https://pantherswap.com/referrals',
+    href: 'https://froyoswap.org/referrals',
   },
   {
     label: 'Audits',
     icon: 'ShieldIcon',
-    href: 'https://docs.pantherswap.com/security/audits',
+    href: 'https://docs.froyoswap.org/security/audits',
   },
   {
     label: 'Features',
@@ -66,19 +66,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Automatic LP',
-        href: 'https://docs.pantherswap.com/tokenomics/automatic-liquidity',
+        href: 'https://docs.froyoswap.org/tokenomics/automatic-liquidity',
       },
       {
         label: 'Automatic Burning',
-        href: 'https://docs.pantherswap.com/tokenomics/automatic-burning',
+        href: 'https://docs.froyoswap.org/tokenomics/automatic-burning',
       },
       {
         label: 'Harvest Lockup',
-        href: 'https://docs.pantherswap.com/tokenomics/harvest-lockup',
+        href: 'https://docs.froyoswap.org/tokenomics/harvest-lockup',
       },
       {
         label: 'Anti-Whale',
-        href: 'https://docs.pantherswap.com/tokenomics/anti-whale',
+        href: 'https://docs.froyoswap.org/tokenomics/anti-whale',
       },
     ],
   },
@@ -199,11 +199,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.pantherswap.com',
+        href: 'https://docs.froyoswap.org',
       },
       {
         label: 'Roadmap',
-        href: 'https://docs.pantherswap.com/roadmap',
+        href: 'https://docs.froyoswap.org/roadmap',
       },
       {
         label: 'Blog',
@@ -211,7 +211,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Voting',
-        href: 'https://voting.pantherswap.com/',
+        href: 'https://voting.froyoswap.org/',
       },
     ],
   },

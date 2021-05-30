@@ -27,7 +27,7 @@ const VersionBar = () => {
       <Button
         variant="subtle"
         as={Link}
-        href="https://docs.pantherswap.com/amm-launch"
+        href="https://docs.froyoswap.org/amm-launch"
         endIcon={<HelpIcon color="white" />}
         size="sm"
         ml="16px"
