@@ -10,6 +10,7 @@
     "@froyoswap-libs/sdk": "^1.1.0",
     "@pancakeswap-libs/uikit": "^0.27.1",
     "@pantherswap-libs/uikit": "^0.1.1",
+    "@froyoswap-libs/uikit": "^0.1.2",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",

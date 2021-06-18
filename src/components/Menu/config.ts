@@ -1,4 +1,4 @@
-import { MenuEntry } from '@froyoswap-libs/uikit'
+import { MenuEntry } from '@pantherswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
