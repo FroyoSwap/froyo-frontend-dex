@@ -1,6 +1,6 @@
 import { Trade, TradeType } from '@froyoswap-libs/sdk'
 import React, { useMemo, useState } from 'react'
-import { Text , Button } from '@pantherswap-libs/uikit'
+import { Text , Button } from '@froyoswap-libs/uikit'
 import { Repeat } from 'react-feather'
 
 import { Field } from '../../state/swap/actions'

@@ -3097,9 +3097,9 @@
     react-transition-group "^4.4.1"
     styled-system "^5.1.5"
 
-"@pantherswap-libs/uikit@^0.1.1":
+"@froyoswap-libs/uikit@^0.1.1":
   version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@pantherswap-libs/uikit/-/uikit-0.1.1.tgz#55e482c94df324e88254786178cf16c1028028a2"
+  resolved "https://registry.yarnpkg.com/@froyoswap-libs/uikit/-/uikit-0.1.1.tgz#55e482c94df324e88254786178cf16c1028028a2"
   integrity sha512-ymEKLfLSyD/HDq+C2PwUSbcG3DlBu7IQNutTnCwVgtpmYrK/TchfTJ4lCNG09y4kDgDoCLMwYjnTIaTYFgLN6w==
   dependencies:
     "@types/lodash" "^4.14.162"
