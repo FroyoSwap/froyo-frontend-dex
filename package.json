@@ -9,7 +9,7 @@
     "@froyoswap-libs/froyo-swap-core": "^0.1.1",
     "@froyoswap-libs/sdk": "^1.1.0",
     "@pancakeswap-libs/uikit": "^0.27.1",
-    "@froyoswap-libs/uikit": "^0.1.2",
+    "@froyoswap-libs/uikit": "^0.1.3",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -90,7 +90,7 @@
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'",
-    "uikit": "yarn upgrade @pancakeswap-libs/uikit"
+    "uikit": "yarn upgrade @froyoswap-libs/uikit"
   },
   "browserslist": {
     "production": [
